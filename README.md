@@ -1,4 +1,4 @@
-# <h1 align="center">Howdy! I'm Kim</h1>
+# <h1 align="center">Howdy! I'm Kim 🤠 </h1>
 
 ### <p align="center">Engineering Tech Graduate. <br>Jack of All Trades</p>
 
