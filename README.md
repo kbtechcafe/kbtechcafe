@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 -->
 ### <h3 align="center">A Little More About Me</h3>
 
-| 🎵 **Favorite Music** 🎵| 🏃‍♂️ **Activities** 🏃‍♂️ | 📺 **Watching in Free Time** 📺 | 📚 **Non-fiction Books I Enjoy** 📚 |
+| 🎵 **Favorite Music Genres** 🎵| 🏃‍♂️ **Activities** 🏃‍♂️ | 📺 **Watching in my Free Time** 📺 | 📚 **Non-fiction Books I Enjoy** 📚 |
 |:------------------------|:------------------------|:------------------------|:------------------------|
 | <sub>70's Funk</sub> | <sub>Building LEGO's</sub> | <sub>Sports</sub> | <sub>The Daily Stoic</sub> |
-| <sub>Jazz</sub> |  <sub>Learning</sub> | <sub>HGTV</sub> | <sub>Quantum Mechanics</sub> |
+| <sub>Jazz</sub> |  <sub>Walking</sub> | <sub>HGTV</sub> | <sub>Quantum Mechanics</sub> |
 | <sub>Hip Hop & R&B</sub> | <sub>Art galleries & museums</sub> | <sub>Documentaries</sub> | <sub>Becoming</sub> |
 
 <!--
