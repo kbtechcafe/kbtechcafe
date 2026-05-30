@@ -2,8 +2,6 @@
 
 ### <p align="center">Engineering Tech Graduate. <br>Jack of All Trades</p>
 
-### <p align="center">I'm passionate about education and examining how our experiences impact our lives.</p>
-
 ---
 <!-- your comment
 **kbtechcafe/kbtechcafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,6 +36,8 @@ Here are some ideas to get you started:
 | <sub>Hip Hop & R&B</sub> | <sub>Art galleries & museums</sub> | <sub>Documentaries</sub> | <sub>Becoming</sub> |
 
 <!--
+### <p align="center">I'm passionate about education and examining how our experiences impact our lives.</p>
+
 | 🎵 **Favorite Music** 🎵| 🎬 **Favorite Films** 🎬 | 📺 **Favorite TV ** 📺 | 📚 **Favorite Non-fiction Books** 📚 |
 |:------------------------|:------------------------|:------------------------|:------------------------|
 | <sub>Four Tet</sub> | <sub>Waking Life</sub> | <sub>Home Town</sub> | <sub>The Daily Stoic</sub> |
