@@ -1,6 +1,6 @@
 # <h1 align="center">Howdy! I'm Kim 🤠 </h1>
 
-### <p align="center">Engineering Tech Graduate. <br>Jack of All Trades</p>
+### <p align="center">Purdue Engineering Tech Grad <br>Jack of All Trades</p>
 
 ---
 <!-- your comment
