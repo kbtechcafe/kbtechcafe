@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 | <sub>Jazz</sub> |  <sub>Walking</sub> | <sub>HGTV</sub> | <sub>Quantum Mechanics</sub> |
 | <sub>Hip Hop & R&B</sub> | <sub>Art galleries & museums</sub> | <sub>Documentaries</sub> | <sub>Becoming</sub> |
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=kbtechcafe&label=Profile%20views&color=0e75b6&style=flat" alt="kbtechcafe" /> </p>
 <!--
 ### <p align="center">I'm passionate about education and examining how our experiences impact our lives.</p>
 
